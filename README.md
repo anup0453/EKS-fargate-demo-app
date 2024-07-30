@@ -1,3 +1,10 @@
+# Anup-content [look for the content in folder 22]
+
+Command to create eks cluster - eksctl create cluster --name eks-anup --region us-east-1 --fargate --nodes 2 --nodes-min 1 --nodes-max 3 --node-type t2.small --zones us-east-1a,us-east-1b,us-east-1c
+
+
+
+
 # aws-devops-zero-to-hero
 
 Complete YouTube playlist - https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
